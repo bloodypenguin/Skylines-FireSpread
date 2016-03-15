@@ -44,8 +44,8 @@ namespace FireSpread
             this.BaseFireSpreadChance = 2.5f;
             this.NoWaterFireSpreadAdditional = 7f;
             this.UneducatedFireSpreadAdditional = 1f;
-            this.IndustrialFireSpreadAdditional = 10f;
-            this.PowerPlantFireSpreadAdditional = 25f;
+            this.IndustrialFireSpreadAdditional = 5f;
+            this.PowerPlantFireSpreadAdditional = 15f;
         }
 
         public static void Load()
